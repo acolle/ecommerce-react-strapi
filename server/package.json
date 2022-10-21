@@ -22,7 +22,7 @@
     "lodash": "^4.17.15",
     "strapi": "^3.0.0-beta.19.3",
     "strapi-email-sendgrid": "0.0.0",
-    "strapi-hook-mongoose": "^3.0.0-beta.17.8",
+    "strapi-hook-mongoose": "^3.0.0-next.31",
     "strapi-utils": "^3.0.0-beta.19.3",
     "stripe": "^8.35.0"
   },
